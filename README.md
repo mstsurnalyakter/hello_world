@@ -1,4 +1,3 @@
 # hello_world
 
-# This is a feature branch.
-
+# This is feature branch.
